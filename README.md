@@ -2,8 +2,7 @@
       A simple ASP.NET Core web application for managing products with CRUD operations, built using Dapper and SQL Server. The project demonstrates clean architecture principles, responsive UI, logging, and pagination.
 
 ### Features
-
-View Products: Display a list of products with pagination and a responsive table.
+      View Products: Display a list of products with pagination and a responsive table.
 Add Product: Add new products with name, price, and automatically tracked creation date.
 Edit Product: Update existing product details with modification tracking.
 Delete Product: Preview and delete products safely.
@@ -12,6 +11,7 @@ Database: SQL Server with Dapper for data access.
 Pagination: Easily browse through large lists of products.
 
 ### Project Structure
+
 ProductManagementWebApp/
 ├─ ProductManagement.Application/   # Application layer (interfaces, services)
 ├─ ProductManagement.Domain/        # Domain entities and interfaces
