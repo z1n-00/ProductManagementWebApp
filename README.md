@@ -1,5 +1,5 @@
 ## Product Management Web Application
-      A simple ASP.NET Core web application for managing products with CRUD operations, built using Dapper and SQL Server. The project demonstrates clean architecture principles,             responsive UI, logging, and pagination.
+      A simple ASP.NET Core web application for managing products with CRUD operations, built using Dapper and SQL Server. The project demonstrates clean architecture principles,    responsive UI, logging, and pagination.
 
 ### Features
       View Products: Display a list of products with pagination and a responsive table.
